@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://fugevera.github.io/sitemap/sitemap_index.fugevera
+Sitemap: https://fugevera.github.io/kmV/sitemap_index.fugevera
+Sitemap: https://fugevera.github.io/rbB/sitemap_index.fugevera
+Sitemap: https://fugevera.github.io/sZe/sitemap_index.fugevera
+Sitemap: https://fugevera.github.io/yMG/sitemap_index.fugevera
+Sitemap: https://fugevera.github.io/ZuK/sitemap_index.fugevera
+Sitemap: https://fugevera.github.io/gpu/sitemap_index.fugevera
+Sitemap: https://fugevera.github.io/IDM/sitemap_index.fugevera
+Sitemap: https://fugevera.github.io/gcX/sitemap_index.fugevera
+Sitemap: https://fugevera.github.io/FWb/sitemap_index.fugevera
+Sitemap: https://fugevera.github.io/LFX/sitemap_index.fugevera
+Sitemap: https://fugevera.github.io/Goc/sitemap_index.fugevera
+Sitemap: https://fugevera.github.io/kWH/sitemap_index.fugevera
+Sitemap: https://fugevera.github.io/srg/sitemap_index.fugevera
+Sitemap: https://fugevera.github.io/GUv/sitemap_index.fugevera
+Sitemap: https://fugevera.github.io/Djq/sitemap_index.fugevera
+Sitemap: https://fugevera.github.io/qou/sitemap_index.fugevera
+Sitemap: https://fugevera.github.io/fvM/sitemap_index.fugevera
+Sitemap: https://fugevera.github.io/YuN/sitemap_index.fugevera
+Sitemap: https://fugevera.github.io/elj/sitemap_index.fugevera
+Sitemap: https://fugevera.github.io/tos/sitemap_index.fugevera
